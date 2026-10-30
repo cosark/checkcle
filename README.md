@@ -120,6 +120,11 @@ docker run -d \
 ![Notification System](https://cdn.checkcle.io/general/powerfull_notification.png)
 
 
+## 🚀 One-Click Deploy
+
+<a href="https://repocloud.io/details/Checkcle/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/checkcle"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## 🌟 CheckCle for Communities?
 - **Built with Passion**: Created by an open-source enthusiast for the community
 - **Free & Open Source**: Completely free to use with no hidden costs
